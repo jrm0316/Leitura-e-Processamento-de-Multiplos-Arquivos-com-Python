@@ -31,7 +31,7 @@ Tecnologias e conceitos utilizados
 - Organização de dados em pastas
 
 
-📁 Estrutura do projeto
+Estrutura do projeto
 projeto/
 ├── documentos/
 │   ├── doc1.txt
