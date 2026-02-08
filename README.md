@@ -46,13 +46,13 @@ Essa estrutura é comum em sistemas que processam grandes volumes de arquivos.
 - Como executar o projeto
   1.) Clone o repositório:
 
-  git clone https://github.com/seu-usuario/leitor-multiplos-arquivos-python
+      git clone https://github.com/seu-usuario/Leitor-de-Multiplos-Arquivos-de-Texto-em-Python
 
   2.) Crie a pasta documentos no mesmo diretório do script
   3.) Adicione arquivos .txt dentro da pasta
   4.) Execute o programa:
 
-  python ler_varios_arquivos.py
+      python ler_varios_arquivos.py
 
 
 Alterando os arquivos analisados
