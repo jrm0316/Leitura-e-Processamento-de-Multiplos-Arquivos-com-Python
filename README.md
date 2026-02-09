@@ -33,11 +33,17 @@ Tecnologias e conceitos utilizados
 
 Estrutura do projeto
 projeto/
+
 ├── documentos/
+
 │   ├── doc1.txt
+
 │   ├── doc2.txt
+
 │   └── doc3.txt
+
 ├── ler_varios_arquivos.py
+
 └── README.md
 
 Essa estrutura é comum em sistemas que processam grandes volumes de arquivos.
