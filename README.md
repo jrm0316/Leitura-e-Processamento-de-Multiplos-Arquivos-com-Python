@@ -44,6 +44,7 @@ Essa estrutura é comum em sistemas que processam grandes volumes de arquivos.
 
 
 - Como executar o projeto
+  
   1.) Clone o repositório:
 
       git clone https://github.com/seu-usuario/Leitor-de-Multiplos-Arquivos-de-Texto-em-Python
