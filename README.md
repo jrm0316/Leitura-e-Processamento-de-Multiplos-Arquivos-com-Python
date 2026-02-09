@@ -10,13 +10,18 @@ Propósito do projeto
    * pré-processamento de informações
 - Antes de usar IA, é essencial dominar arquivos, diretórios e fluxo de dados — e esse projeto foca exatamente nisso.
 
-
+                                                                                                                                                                                                                                                                                   
 Como o programa funciona
 - O script percorre uma pasta chamada documentos, identifica todos os arquivos .txt e:
+  
   1.) Abre cada arquivo individualmente
+  
   2.) Lê seu conteúdo utilizando codificação UTF-8
+  
   3.) Exibe o nome do arquivo
+  
   4.) Imprime o conteúdo no terminal de forma organizada
+  
 - Cada arquivo é tratado de forma independente, simulando um cenário real de processamento em lote.
 
 
