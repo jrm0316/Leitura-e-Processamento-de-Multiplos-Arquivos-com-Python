@@ -1,4 +1,4 @@
-# Leitor-de-Multiplos-Arquivos-de-Texto-em-Python
+# Leitura e Processamento de Múltiplos Arquivos com Python
 
 Propósito do projeto
 - Este projeto tem como objetivo demonstrar a leitura automática de múltiplos arquivos de texto a partir de um diretório específico, utilizando Python puro.
