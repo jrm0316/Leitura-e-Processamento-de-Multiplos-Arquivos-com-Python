@@ -58,7 +58,7 @@ Essa estrutura é comum em sistemas que processam grandes volumes de arquivos.
   
   1.) Clone o repositório:
 
-      git clone https://github.com/seu-usuario/Leitor-de-Multiplos-Arquivos-de-Texto-em-Python
+      git clone https://github.com/jrm0316/Leitura-e-Processamento-de-Multiplos-Arquivos-com-Python/edit/main/README.md
 
   2.) Crie a pasta documentos no mesmo diretório do script
   3.) Adicione arquivos .txt dentro da pasta
