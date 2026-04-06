@@ -92,5 +92,5 @@ Resumo profissional
 - Script desenvolvido em Python para leitura e processamento automático de múltiplos arquivos de texto a partir de um diretório específico.
 - O projeto demonstra domínio de File I/O, organização de dados e lógica de processamento em lote, servindo como base para aplicações backend e futuras integrações com inteligência artificial.
 
-Autor
-  Desenvolvido por Juliano Rodrigues Madeira
+Autor  
+   Desenvolvido por Juliano Rodrigues Madeira
